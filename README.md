@@ -10,7 +10,7 @@ This project is useful for creating an interactive and touch-free drawing experi
 
 1. Clone the Repository: Clone the project repository to your local machine.
     ```bash
-    git clone <repository-url>
+    https://github.com/meghna-parvathi-sannidhanam/SkyPalette/tree/main
     ```
 2. Install the Required Dependencies: Make sure you have Python installed and then install the necessary libraries.
     ```bash
